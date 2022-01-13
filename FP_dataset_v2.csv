@@ -1,0 +1,112 @@
+,locations,service_center,business_status,address,rating,price_level,review_count
+0,AL Birmingham,1,OPERATIONAL,"2403 21st St N, Birmingham, AL 35234, United States",4.7,2,60
+1,AL Decatur,,OPERATIONAL,"1101 McEntire Ln NW, Decatur, AL 35601, United States",4.8,2,24
+2,AL Dothan,,OPERATIONAL,"2308 N Range St, Dothan, AL 36303, United States",4.8,2,28
+3,AL Mobile,1,OPERATIONAL,"5245 Halls Mill Rd, Mobile, AL 36619, United States",4.5,2,48
+4,AL Tuscaloosa,,OPERATIONAL,"5947 Old Montgomery Hwy, Tuscaloosa, AL 35405, United States",4.7,2,26
+5,AR Conway,1,OPERATIONAL,"255 Tilk Rd, Conway, AR 72032, United States",4.2,,54
+6,AR Little Rock,1,OPERATIONAL,"4614 Thibault Rd, Little Rock, AR 72206, United States",4.1,,14
+7,AR Springdale,,OPERATIONAL,"1101 Schmieding Ave, Springdale, AR 72764, United States",4.7,2,32
+8,AR Texarkana,1,OPERATIONAL,"510 Realtor Ave, Texarkana, AR 71854, United States",4.2,,74
+9,AZ Phoenix,,OPERATIONAL,"1801 N Black Canyon Hwy, Phoenix, AZ 85009, United States",4.4,2,145
+10,AZ Tucson,,OPERATIONAL,"2851 N Flowing Wells Rd #151, Tucson, AZ 85705, United States",4.5,2,35
+11,CA Fresno,,OPERATIONAL,"2495 S Orange Ave, Fresno, CA 93725, United States",4.6,2,11
+12,CA Hayward,,OPERATIONAL,"21130 Cabot Blvd, Hayward, CA 94545, United States",4.2,2,33
+13,CA Ontario,,OPERATIONAL,"17000 S Main St, Gardena, CA 90248, United States",4.2,2,37
+14,CA San Jose,,OPERATIONAL,"1164 Old Bayshore Hwy, San Jose, CA 95112, United States",4.1,2,23
+15,CT Danbury,,OPERATIONAL,"5 Christopher Columbus Ave, Danbury, CT 06810, United States",3.6,2,14
+16,CT Hartford,,OPERATIONAL,"130 Murphy Rd, Hartford, CT 06114, United States",4.2,2,35
+17,CT Milford,,CLOSED_PERMANENTLY,"470 Naugatuck Ave, Milford, CT 06460, United States",4.2,2,14
+18,CT Waterbury,,OPERATIONAL,"27A S Commons Rd, Waterbury, CT 06704, United States",4.8,2,26
+19,FL Clearwater,,OPERATIONAL,"4931 110th Ave N, Clearwater, FL 33760, United States",4.7,2,61
+20,FL Jacksonville,1,OPERATIONAL,"150 Ellis Rd N, Jacksonville, FL 32254, United States",4.5,2,51
+21,FL Sarasota,,OPERATIONAL,"2141 Whitfield Park Loop, Sarasota, FL 34243, United States",4.6,2,66
+22,FL Tampa,1,OPERATIONAL,"3517 N 40th St, Tampa, FL 33605, United States",4.3,2,165
+23,GA Albany,1,OPERATIONAL,"1017 N Main St, Moultrie, GA 31768, United States",4.8,2,13
+24,GA Ellenwood,1,OPERATIONAL,"5291 GA-42, Ellenwood, GA 30294, United States",4.2,,59
+25,GA Valdosta,1,OPERATIONAL,"2050 Briarwood Rd, Valdosta, GA 31601, United States",4.5,,59
+26,ID Idaho Falls,1,OPERATIONAL,"683 E Iona Rd, Idaho Falls, ID 83401, United States",4.3,2,54
+27,ID Twin Falls,,OPERATIONAL,"2080 Kimberly Rd, Twin Falls, ID 83301, United States",4.3,2,29
+28,IL Kankakee,1,OPERATIONAL,"101 W Issert Dr, Kankakee, IL 60901, United States",4.5,2,37
+29,IL Mokena,1,OPERATIONAL,"19622 97th Ave, Mokena, IL 60448, United States",4,2,51
+30,IL Peoria,,OPERATIONAL,"2616 SW Jefferson Ave, Peoria, IL 61605, United States",4.5,2,26
+31,IL Rockford,1,OPERATIONAL,"4233 11th St, Rockford, IL 61109, United States",4.8,,5
+32,IN Clarksville,,OPERATIONAL,"5305 US-31, Clarksville, IN 47129, United States",4.6,,46
+33,KS Topeka,,OPERATIONAL,"4812 SW Topeka Blvd, Topeka, KS 66609, United States",4.4,2,28
+34,KS Wichita,1,OPERATIONAL,"4501 W Esthner Ave, Wichita, KS 67209, United States",4.2,2,64
+35,KY Bowling Green,,OPERATIONAL,"107 Center St, Bowling Green, KY 42101, United States",4,2,28
+36,KY Lexington,1,OPERATIONAL,"865 Nandino Blvd, Lexington, KY 40511, United States",4.8,2,40
+37,MA Agawam,1,OPERATIONAL,"32 Century St, Agawam, MA 01001, United States",4.5,2,48
+38,MA Leominster,,OPERATIONAL,"100 Crawford St, Leominster, MA 01453, United States",4.8,2,33
+39,MA Norwell,,OPERATIONAL,"84 Accord Park Dr, Norwell, MA 02061, United States",4.9,2,27
+40,MA S. Deerfield,1,OPERATIONAL,"4 Industrial Dr W, South Deerfield, MA 01373, United States",4.7,2,15
+41,MA Worcester,,OPERATIONAL,"U.S. 20, 369 SW Cutoff, Worcester, MA 01604, United States",4.4,2,63
+42,MD Baltimore,,OPERATIONAL,"1715 Twin Springs Rd Suite 111, Halethorpe, MD 21227, United States",3.9,2,35
+43,MD Elkton,,OPERATIONAL,"800 E Pulaski Hwy, Elkton, MD 21921, United States",4.5,2,37
+44,MD Frederick,,OPERATIONAL,"900 E Patrick St bldg 4a, Frederick, MD 21701, United States",4.8,2,44
+45,MD Hagerstown,,OPERATIONAL,"16803 Notley Rd, Hagerstown, MD 21740, United States",4.8,2,22
+46,ME Scarborough,1,OPERATIONAL,"1 Glasgow Rd, Scarborough, ME 04074, United States",4.4,2,19
+47,MN Bemidji,1,OPERATIONAL,"2301 Johanneson Ave NW, Bemidji, MN 56601, United States",4.4,2,19
+48,MN Brainerd,1,OPERATIONAL,"2006 SE 13th St, Brainerd, MN 56401, United States",4.1,2,12
+49,MN Burnsville,1,OPERATIONAL,"12525 Dupont Ave S, Burnsville, MN 55337, United States",3.9,2,36
+50,MN Mankato,1,OPERATIONAL,"2626 3rd Ave N, Mankato, MN 56001, United States",4.6,2,32
+51,MN Rochester,1,OPERATIONAL,"3625 Commercial Dr SW, Rochester, MN 55902, United States",4.4,2,25
+52,MN Roseville,1,OPERATIONAL,"2785 Long Lake Rd, Roseville, MN 55113, United States",4.4,2,82
+53,MN Spicer,,OPERATIONAL,"8584 Hwy 23 Frontage Rd NE, Spicer, MN 56288, United States",4.9,2,15
+54,MN St. Cloud,1,OPERATIONAL,"1112 Kuhn Dr, St Cloud, MN 56301, United States",4.7,2,15
+55,MO Joplin,1,OPERATIONAL,"622 S Prosperity Ave, Joplin, MO 64801, United States",4.5,2,69
+56,MO St Joseph,1,OPERATIONAL,"6825 Cherry Ave A, Long Beach, CA 90805, United States",4.5,2,31
+57,MO Springfield,1,OPERATIONAL,"1225 E Trafficway St, Springfield, MO 65802, United States",4.5,2,71
+58,NC Asheville,,OPERATIONAL,"201 Sweeten Creek Industrial Park Rd, Asheville, NC 28803, United States",4.3,2,48
+59,NC Charlotte,,OPERATIONAL,"3740 Jeff Adams Dr, Charlotte, NC 28206, United States",4.5,2,39
+60,NC Greensboro,,OPERATIONAL,"7603 Boeing Dr, Greensboro, NC 27409, United States",4.1,2,52
+61,NC Hickory,,OPERATIONAL,"25 US Hwy 321 NW, Hickory, NC 28601, United States",4.1,2,31
+62,NC Raleigh Garner,1,OPERATIONAL,"3901 Jones Sausage Rd Raleigh, Garner, NC 27529, United States",4.4,2,107
+63,NC Wilmington,,OPERATIONAL,"3234 US-421, Wilmington, NC 28401, United States",4.6,2,23
+64,ND Fargo,1,OPERATIONAL,"1320 45th St N, Fargo, ND 58102, United States",4.1,2,30
+65,NE Hastings,1,OPERATIONAL,"1270 S Baltimore Ave, Hastings, NE 68901, United States",4.2,2,14
+66,NH Londonderry,1,OPERATIONAL,"2 Liberty Dr, Londonderry, NH 03053, United States",4.7,2,29
+67,NM Artesia,,OPERATIONAL,"2001 N 1st St, Artesia, NM 88210, United States",4.2,2,19
+68,NM Farmington,,OPERATIONAL,"1410 W Murray Dr, Farmington, NM 87401, United States",4.2,2,17
+69,NY Albany,1,OPERATIONAL,"586 Broadway, Menands, NY 12204, United States",4.4,2,34
+70,NY Binghamton,,OPERATIONAL,"10 Track Dr, Binghamton, NY 13904, United States",4.2,2,22
+71,NY Cheektowaga,,OPERATIONAL,"1696 Walden Ave, Cheektowaga, NY 14225, United States",4.4,2,40
+72,NY Medford,,OPERATIONAL,"3070 NY-112, Medford, NY 11763, United States",4.6,2,24
+73,NY Pleasant Valley,1,OPERATIONAL,"1931 US-44, Pleasant Valley, NY 12569, United States",5,,2
+74,NY Rochester,,OPERATIONAL,"1437 Scottsville Rd, Rochester, NY 14624, United States",4.4,2,72
+75,NY Syracuse,,OPERATIONAL,"805 Spencer St, Syracuse, NY 13204, United States",4,2,34
+76,NY Tonawanda,,OPERATIONAL,"140 Fire Tower Dr, Tonawanda, NY 14150, United States",4.6,2,21
+77,NY Watertown,,OPERATIONAL,"22672 Murrock Cir, Watertown, NY 13601, United States",4.9,2,18
+78,OH Steubenville,1,OPERATIONAL,"620 South St, Steubenville, OH 43952, United States",4.2,,94
+79,OK Oklahoma City,1,OPERATIONAL,"7420 W Reno Ave, Oklahoma City, OK 73127, United States",4.4,2,90
+80,OK Weatherford,1,OPERATIONAL,"4900 S Frontage Rd, Weatherford, OK 73096, United States",4.3,,96
+81,PA Carlisle,1,OPERATIONAL,"1220 Newville Rd, Carlisle, PA 17013, United States",3.6,,9
+82,PA Harrisburg,1,OPERATIONAL,"7800 Linglestown Rd, Harrisburg, PA 17112, United States",3.7,,3
+83,PA Throop,,OPERATIONAL,"651 Keystone Industrial Park Rd, Throop, PA 18512, United States",4.6,2,41
+84,PA York,1,OPERATIONAL,"2150 S Queen St, York, PA 17402, United States",5,,8
+85,SC Columbia,,OPERATIONAL,"1631 Shop Rd, Columbia, SC 29201, United States",4.7,2,52
+86,SC N. Charleston,,OPERATIONAL,"5130 Rivers Ave, North Charleston, SC 29406, United States",4.4,2,79
+87,SD Sioux Falls,1,OPERATIONAL,"3910 E Wilcox St, Sioux Falls, SD 57104, United States",4.7,2,27
+88,TN Chattanooga,1,OPERATIONAL,"2000 E 24th St Pl, Chattanooga, TN 37407, United States",4.8,2,41
+89,TN Kingsport,,OPERATIONAL,"2705 E Stone Dr, Kingsport, TN 37660, United States",4.4,2,26
+90,TN Memphis,,OPERATIONAL,"3259 Millbranch Rd, Memphis, TN 38116, United States",4.3,2,42
+91,TN Nashville,,OPERATIONAL,"835 Fesslers Pkwy, Nashville, TN 37210, United States",4.6,2,43
+92,TX Alice,1,OPERATIONAL,"1903 S U.S. Hwy 281, Alice, TX 78332, United States",5,2,19
+93,TX Corpus Christi,1,OPERATIONAL,"7749, # Ih-37, Corpus Christi, TX 78409, United States",4,2,72
+94,TX Dallas,,OPERATIONAL,"3942 Irving Blvd, Dallas, TX 75247, United States",4.1,2,46
+95,TX El Paso,,OPERATIONAL,"11500 Rojas Dr Suite F, El Paso, TX 79936, United States",4.7,2,29
+96,TX Houston,,OPERATIONAL,"9133 Wallisville Rd, Houston, TX 77029, United States",4.5,2,61
+97,TX Kilgore,,OPERATIONAL,"502 TX-135, Kilgore, TX 75662, United States",4.4,2,63
+98,TX Longview,1,OPERATIONAL,"185 Kyle-Wilson Rd, Longview, TX 75602",,,0
+99,TX Seminole,1,OPERATIONAL,"911 S Main St, Seminole, TX 79360, United States",5,,8
+100,VA Richmond,,OPERATIONAL,"1402 Commerce Rd, Richmond, VA 23224, United States",4.6,2,69
+101,VA Roanoke,,OPERATIONAL,"826 Shenandoah Ave NW, Roanoke, VA 24016, United States",4.8,2,38
+102,VT Swanton,1,OPERATIONAL,"721 VT-78, Swanton, VT 05488, United States",4.4,2,5
+103,VT Williston,1,OPERATIONAL,"60 Krupp Dr, Williston, VT 05495, United States",4.4,2,34
+104,WI Eau Claire,1,OPERATIONAL,"3340 Hogarth St, Eau Claire, WI 54703, United States",4.6,2,26
+105,WI Fond Du Lac,1,OPERATIONAL,"385 N Pioneer Rd, Fond du Lac, WI 54937, United States",3.7,2,20
+106,WI Green Bay,1,OPERATIONAL,"1790 Velp Ave, Green Bay, WI 54303, United States",4.6,2,22
+107,WI Stevens Point,1,OPERATIONAL,"5201 Heffron Ct Bldg B, Stevens Point, WI 54481, United States",4.7,2,26
+108,WV Beckley,,OPERATIONAL,"490 Ragland Rd, Beckley, WV 25801, United States",4.9,2,8
+109,WV Clarksburg,1,OPERATIONAL,"60 Columbia Blvd, Clarksburg, WV 26301, United States",4.3,2,36
+110,WV S. Charleston,1,OPERATIONAL,"3204 MacCorkle Ave SW, South Charleston, WV 25303, United States",4.4,2,23
